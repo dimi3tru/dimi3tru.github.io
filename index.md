@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Дмитрий Труфанов — Senior Data Scientist
+title: Дмитрий Труфанов — AI Product Lead (IC)
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 2rem;">
