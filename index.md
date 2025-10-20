@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Дмитрий Труфанов — AI Product Lead (IC)
+title: Дмитрий Труфанов — AI Product Manager
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 2rem;">
